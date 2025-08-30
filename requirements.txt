@@ -1,0 +1,9 @@
+whisper
+moviepy
+transformers
+google-generativeai
+torch
+numpy
+scipy
+librosa
+soundfile
